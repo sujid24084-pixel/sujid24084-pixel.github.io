@@ -1,4 +1,4 @@
-const API_URL = "https://여기에-Cloudflare-Worker-주소";
+const API_URL = "https://sujid24084-home.suji-d24084.workers.dev";
 
 async function askAI() {
   const question = document.getElementById("question").value;
